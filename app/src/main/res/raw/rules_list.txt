@@ -1,0 +1,30 @@
+$VER;ouvrir;open
+$VER;lancer;open
+$VER;démarrer;open
+$VER;commencer;open
+$VER;arrêter;stop
+$VER;fermer;stop
+$VER;quitter;stop
+$VER;terminer;stop
+$VER;finir;stop
+$SUB;je
+$SUB;tu
+$SUB;il
+$SUB;elle
+$SUB;on
+$SUB;nous
+$SUB;vous
+$SUB;ils
+$SUB;elles
+$CON;et;and
+$CON;ou;or
+$CON;sauf;exclude
+$VER;$SUB $VER;1
+$VER;$VER $SUB;0
+$VER;$E $VER;1
+$VER;$VER $E;0
+$VER;$VER $VER;1
+$SUB;$E $SUB;1
+$CON;$E $CON
+$CON;$CON $E
+$S;$VER $OBJ
